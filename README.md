@@ -1,4 +1,4 @@
-# Fit Bit email
+# Fitbit email
 
 For this second assessment, please do your best to make the email responsive. We don’t expect it to be perfect, but see how far you can go with it. There’s also a button in the email which is described in the email-world as a “bulletproof button”. Try to make the whole blue button clickable if you can.
 
